@@ -1,11 +1,6 @@
 {
   "version": 2,
+  "installCommand": "echo 'Skipping install'",
   "buildCommand": "echo 'No build needed'",
-  "outputDirectory": "static",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+  "outputDirectory": "static"
 }
