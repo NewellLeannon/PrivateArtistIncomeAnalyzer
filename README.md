@@ -82,7 +82,7 @@ The platform provides real-time insights including:
 
 ## 🎬 Demo Materials
 
-### Video Demonstration
+### PrivateArtistIncomeAnalyzer.mp4
 
 A comprehensive video walkthrough showcasing:
 - Artist registration process
@@ -93,7 +93,7 @@ A comprehensive video walkthrough showcasing:
 
 *[Video demonstration available in repository]*
 
-### On-Chain Transaction Screenshots
+### PrivateArtistIncomeAnalyzer.png
 
 
 *[Screenshots available in repository]*
